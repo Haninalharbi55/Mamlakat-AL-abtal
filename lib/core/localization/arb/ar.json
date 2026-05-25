@@ -1,0 +1,290 @@
+{
+  "@@locale": "ar",
+  "app_title": "مملكة الأبطال",
+  "@app_title": {
+    "description": "App title",
+    "placeholders": {}
+  },
+  "welcome_title": "مرحبا بك",
+  "@welcome_title": {
+    "description": "Welcome screen title",
+    "placeholders": {}
+  },
+  "select_character": "اختر شخصيتك",
+  "@select_character": {
+    "description": "Select character text",
+    "placeholders": {}
+  },
+  "boy": "ولد",
+  "@boy": {
+    "description": "Boy gender",
+    "placeholders": {}
+  },
+  "girl": "بنت",
+  "@girl": {
+    "description": "Girl gender",
+    "placeholders": {}
+  },
+  "name": "الاسم",
+  "gender": "الجنس",
+  "birth_date": "تاريخ الميلاد",
+  "points_label": "النقاط المحصلة",
+  "@name": {
+    "description": "Name field",
+    "placeholders": {}
+  },
+  "age": "العمر",
+  "@age": {
+    "description": "Age field",
+    "placeholders": {}
+  },
+  "email": "البريد الالكتروني",
+  "@email": {
+    "description": "Email field",
+    "placeholders": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "description": "Password field",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "description": "Login button",
+    "placeholders": {}
+  },
+  "register": "إنشاء حساب",
+  "@register": {
+    "description": "Register button",
+    "placeholders": {}
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "description": "Home tab",
+    "placeholders": {}
+  },
+  "map": "الخريطة",
+  "@map": {
+    "description": "Map tab",
+    "placeholders": {}
+  },
+  "rewards": "المكافئات",
+  "@rewards": {
+    "description": "Rewards tab",
+    "placeholders": {}
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "Settings tab",
+    "placeholders": {}
+  },
+  "water": "الماء",
+  "@water": {
+    "description": "Water habit",
+    "placeholders": {}
+  },
+  "sleep": "النوم",
+  "@sleep": {
+    "description": "Sleep habit",
+    "placeholders": {}
+  },
+  "walk": "المشي",
+  "@walk": {
+    "description": "Walk habit",
+    "placeholders": {}
+  },
+  "food": "الطعام الصحي",
+  "@food": {
+    "description": "Food habit",
+    "placeholders": {}
+  },
+  "play": "لعب",
+  "@play": {
+    "description": "Play button",
+    "placeholders": {}
+  },
+  "water_question": "كم كوبا من الماء شربت اليوم؟",
+  "@water_question": {
+    "description": "Water tracking question",
+    "placeholders": {}
+  },
+  "sleep_question": "هل اخذت قسطا كافيا من النوم؟",
+  "@sleep_question": {
+    "description": "Sleep tracking question",
+    "placeholders": {}
+  },
+  "walk_question": "هل مشيت مسافه كافيه اليوم؟",
+  "@walk_question": {
+    "description": "Walk tracking question",
+    "placeholders": {}
+  },
+  "food_question": "هل تناولت طعاما صحيا اليوم؟",
+  "@food_question": {
+    "description": "Food tracking question",
+    "placeholders": {}
+  },
+  "cups": "أكواب",
+  "@cups": {
+    "description": "Cups unit",
+    "placeholders": {}
+  },
+  "hours": "ساعات",
+  "@hours": {
+    "description": "Hours unit",
+    "placeholders": {}
+  },
+  "steps": "خطوات",
+  "@steps": {
+    "description": "Steps unit",
+    "placeholders": {}
+  },
+  "points": "نقاط",
+  "@points": {
+    "description": "Points unit",
+    "placeholders": {}
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "Save button",
+    "placeholders": {}
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "Cancel button",
+    "placeholders": {}
+  },
+  "daily_challenges": "التحديات اليومية",
+  "@daily_challenges": {
+    "description": "Daily challenges title",
+    "placeholders": {}
+  },
+  "drinking_water": "شرب الماء",
+  "@drinking_water": {
+    "description": "Drinking water challenge",
+    "placeholders": {}
+  },
+  "healthy_food": "الطعام الصحي",
+  "@healthy_food": {
+    "description": "Healthy food challenge",
+    "placeholders": {}
+  },
+  "sleep_hours": "ساعات النوم",
+  "@sleep_hours": {
+    "description": "Sleep hours challenge",
+    "placeholders": {}
+  },
+  "walking": "المشي",
+  "@walking": {
+    "description": "Walking challenge",
+    "placeholders": {}
+  },
+  "region_locked": "مقفل",
+  "@region_locked": {
+    "description": "Region locked status",
+    "placeholders": {}
+  },
+  "region_unlocked": "مفتوح",
+  "@region_unlocked": {
+    "description": "Region unlocked status",
+    "placeholders": {}
+  },
+  "region_completed": "مكتمل",
+  "@region_completed": {
+    "description": "Region completed status",
+    "placeholders": {}
+  },
+  "complete_goals_to_unlock": "أكمل أهداف اليوم لفتح هذه المنطقة",
+  "@complete_goals_to_unlock": {
+    "description": "Message to unlock region",
+    "placeholders": {}
+  },
+  "quiz": "الأسئلة",
+  "@quiz": {
+    "description": "Quiz button",
+    "placeholders": {}
+  },
+  "submit": "إرسال",
+  "@submit": {
+    "description": "Submit button",
+    "placeholders": {}
+  },
+  "score": "النتيجة",
+  "@score": {
+    "description": "Score label",
+    "placeholders": {}
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "Language setting",
+    "placeholders": {}
+  },
+  "arabic": "العربية",
+  "@arabic": {
+    "description": "Arabic language",
+    "placeholders": {}
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language",
+    "placeholders": {}
+  },
+  "logout": "تسجيل الخروج",
+  "@logout": {
+    "description": "Logout button",
+    "placeholders": {}
+  },
+  "loading": "جاري التحميل...",
+  "@loading": {
+    "description": "Loading message",
+    "placeholders": {}
+  },
+  "error": "خطأ",
+  "@error": {
+    "description": "Error message",
+    "placeholders": {}
+  },
+  "retry": "إعادة المحاولة",
+  "@retry": {
+    "description": "Retry button",
+    "placeholders": {}
+  },
+  "success": "نجح",
+  "@success": {
+    "description": "Success message",
+    "placeholders": {}
+  },
+  "completed": "مكتمل",
+  "@completed": {
+    "description": "Completed status",
+    "placeholders": {}
+  },
+  "great_completed_region": "رائع لقد اكملت مدينه {region}!!",
+  "@great_completed_region": {
+    "description": "Region completion message",
+    "placeholders": {
+      "region": {
+        "type": "String"
+      }
+    }
+  },
+  "map_badge_label": "اكتشف المناطق",
+  "@map_badge_label": {
+    "description": "Map quadrant badge label",
+    "placeholders": {}
+  },
+  "food_badge_label": "طعام صحي",
+  "@food_badge_label": {
+    "description": "Food quadrant badge label",
+    "placeholders": {}
+  },
+  "sleep_badge_label": "نوم كافٍ",
+  "@sleep_badge_label": {
+    "description": "Sleep quadrant badge label",
+    "placeholders": {}
+  },
+  "walk_badge_label": "خطوات نشاط",
+  "@walk_badge_label": {
+    "description": "Walk quadrant badge label",
+    "placeholders": {}
+  }
+}

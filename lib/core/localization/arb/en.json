@@ -1,0 +1,290 @@
+{
+  "@@locale": "en",
+  "app_title": "Kingdom of Heroes",
+  "@app_title": {
+    "description": "App title",
+    "placeholders": {}
+  },
+  "welcome_title": "Welcome",
+  "@welcome_title": {
+    "description": "Welcome screen title",
+    "placeholders": {}
+  },
+  "select_character": "Select your character",
+  "@select_character": {
+    "description": "Select character text",
+    "placeholders": {}
+  },
+  "boy": "Boy",
+  "@boy": {
+    "description": "Boy gender",
+    "placeholders": {}
+  },
+  "girl": "Girl",
+  "@girl": {
+    "description": "Girl gender",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "gender": "Gender",
+  "birth_date": "Birth Date",
+  "points_label": "Earned Points",
+  "@name": {
+    "description": "Name field",
+    "placeholders": {}
+  },
+  "age": "Age",
+  "@age": {
+    "description": "Age field",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register button",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab",
+    "placeholders": {}
+  },
+  "map": "Map",
+  "@map": {
+    "description": "Map tab",
+    "placeholders": {}
+  },
+  "rewards": "Rewards",
+  "@rewards": {
+    "description": "Rewards tab",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab",
+    "placeholders": {}
+  },
+  "water": "Water",
+  "@water": {
+    "description": "Water habit",
+    "placeholders": {}
+  },
+  "sleep": "Sleep",
+  "@sleep": {
+    "description": "Sleep habit",
+    "placeholders": {}
+  },
+  "walk": "Walk",
+  "@walk": {
+    "description": "Walk habit",
+    "placeholders": {}
+  },
+  "food": "Healthy Food",
+  "@food": {
+    "description": "Food habit",
+    "placeholders": {}
+  },
+  "play": "Play",
+  "@play": {
+    "description": "Play button",
+    "placeholders": {}
+  },
+  "water_question": "How many cups of water did you drink today?",
+  "@water_question": {
+    "description": "Water tracking question",
+    "placeholders": {}
+  },
+  "sleep_question": "Did you get enough sleep?",
+  "@sleep_question": {
+    "description": "Sleep tracking question",
+    "placeholders": {}
+  },
+  "walk_question": "Did you walk enough today?",
+  "@walk_question": {
+    "description": "Walk tracking question",
+    "placeholders": {}
+  },
+  "food_question": "Did you eat healthy food today?",
+  "@food_question": {
+    "description": "Food tracking question",
+    "placeholders": {}
+  },
+  "cups": "cups",
+  "@cups": {
+    "description": "Cups unit",
+    "placeholders": {}
+  },
+  "hours": "hours",
+  "@hours": {
+    "description": "Hours unit",
+    "placeholders": {}
+  },
+  "steps": "steps",
+  "@steps": {
+    "description": "Steps unit",
+    "placeholders": {}
+  },
+  "points": "points",
+  "@points": {
+    "description": "Points unit",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button",
+    "placeholders": {}
+  },
+  "daily_challenges": "Daily Challenges",
+  "@daily_challenges": {
+    "description": "Daily challenges title",
+    "placeholders": {}
+  },
+  "drinking_water": "Drinking Water",
+  "@drinking_water": {
+    "description": "Drinking water challenge",
+    "placeholders": {}
+  },
+  "healthy_food": "Healthy Food",
+  "@healthy_food": {
+    "description": "Healthy food challenge",
+    "placeholders": {}
+  },
+  "sleep_hours": "Sleep Hours",
+  "@sleep_hours": {
+    "description": "Sleep hours challenge",
+    "placeholders": {}
+  },
+  "walking": "Walking",
+  "@walking": {
+    "description": "Walking challenge",
+    "placeholders": {}
+  },
+  "region_locked": "Locked",
+  "@region_locked": {
+    "description": "Region locked status",
+    "placeholders": {}
+  },
+  "region_unlocked": "Unlocked",
+  "@region_unlocked": {
+    "description": "Region unlocked status",
+    "placeholders": {}
+  },
+  "region_completed": "Completed",
+  "@region_completed": {
+    "description": "Region completed status",
+    "placeholders": {}
+  },
+  "complete_goals_to_unlock": "Complete today's goals to unlock this region",
+  "@complete_goals_to_unlock": {
+    "description": "Message to unlock region",
+    "placeholders": {}
+  },
+  "quiz": "Quiz",
+  "@quiz": {
+    "description": "Quiz button",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button",
+    "placeholders": {}
+  },
+  "score": "Score",
+  "@score": {
+    "description": "Score label",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting",
+    "placeholders": {}
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Arabic language",
+    "placeholders": {}
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button",
+    "placeholders": {}
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading message",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error message",
+    "placeholders": {}
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button",
+    "placeholders": {}
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Success message",
+    "placeholders": {}
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed status",
+    "placeholders": {}
+  },
+  "great_completed_region": "Great! You have completed {region} city!!",
+  "@great_completed_region": {
+    "description": "Region completion message",
+    "placeholders": {
+      "region": {
+        "type": "String"
+      }
+    }
+  },
+  "map_badge_label": "Discover Regions",
+  "@map_badge_label": {
+    "description": "Map quadrant badge label",
+    "placeholders": {}
+  },
+  "food_badge_label": "Healthy Food",
+  "@food_badge_label": {
+    "description": "Food quadrant badge label",
+    "placeholders": {}
+  },
+  "sleep_badge_label": "Good Sleep",
+  "@sleep_badge_label": {
+    "description": "Sleep quadrant badge label",
+    "placeholders": {}
+  },
+  "walk_badge_label": "Active Steps",
+  "@walk_badge_label": {
+    "description": "Walk quadrant badge label",
+    "placeholders": {}
+  }
+}
